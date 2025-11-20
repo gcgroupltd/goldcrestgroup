@@ -13,6 +13,7 @@
   "sections": {
     "custom_announcement_bar_PwtbTc": {
       "type": "custom-announcement-bar",
+      "disabled": true,
       "settings": {}
     },
     "topbar_ctwXzB": {
