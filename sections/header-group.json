@@ -37,8 +37,6 @@
     "advert_a3xDxf": {
       "type": "advert",
       "settings": {
-        "left_image": "shopify://shop_images/grampian_png.webp",
-        "right_image": "shopify://shop_images/grampian_png.webp",
         "external": "shopify://collections/all"
       }
     }
