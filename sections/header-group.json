@@ -37,7 +37,7 @@
     "advert_a3xDxf": {
       "type": "advert",
       "settings": {
-        "text": "Offers now on. Book Now!",
+        "text": "Christmas Sale Now On! Book Now!",
         "external": "shopify://collections/all"
       }
     }
