@@ -1,11 +1,66 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "page-content": {
-      "type": "main-page"
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     },
     "design-inspiration": {
-      "type": "design-inspiration"
+      "type": "design-inspiration",
+      "blocks": {
+        "image_pFpjy6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/eclipse-Sirius_Moonstone_PVC.jpg",
+            "image_alt": "Design Inspiration"
+          }
+        },
+        "image_38xKAe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Venetian_Cashew_TradKitchen_Open-min.jpg",
+            "image_alt": "Design Inspiration"
+          }
+        },
+        "image_hUPkdF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Venetian_BurntOrange_Open_ModKitchen-min.jpg",
+            "image_alt": "Design Inspiration"
+          }
+        },
+        "image_cw8aCY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/alumitex_obsidian_with_38mm_stealth_tapes.jpg",
+            "image_alt": "Design Inspiration"
+          }
+        }
+      },
+      "block_order": [
+        "image_pFpjy6",
+        "image_38xKAe",
+        "image_hUPkdF",
+        "image_cw8aCY"
+      ],
+      "settings": {
+        "section_title": "Blinds Inspiration"
+      }
     }
   },
-  "order": ["page-content", "design-inspiration"]
+  "order": [
+    "page-content",
+    "design-inspiration"
+  ]
 }
