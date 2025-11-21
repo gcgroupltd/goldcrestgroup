@@ -39,7 +39,7 @@
       "type": "advert",
       "settings": {
         "text": "Christmas Sale Now On!",
-        "external": "shopify://collections/all"
+        "external": "https://book.grampian-blinds.co.uk/"
       }
     }
   },
