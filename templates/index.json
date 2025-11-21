@@ -232,7 +232,7 @@
         "main_heading": "The Right Fit, Every Time",
         "body_text": "<p>As the local experts in made-to-measure blinds, curtains, and shutters, we handle every detail. We ensure your items are perfectly tailored and installed, giving you a flawless result that's guaranteed to last.</p>",
         "button_label": "Book Your Appointment",
-        "button_link": "https://book.goldcrest-blinds.co.uk/",
+        "button_link": "https://book.grampian-blinds.co.uk/",
         "right_image": "shopify://shop_images/Screenshot_2025-05-16_115925.webp",
         "right_bg_color": "#f5f5f5"
       }
@@ -415,7 +415,7 @@
         "text_color": "#ffffff",
         "heading": "Sign up to our newsletter",
         "text": "<p>Enter your email address to receive updates on our latest collections, trends and exclusive offers.</p>",
-        "privacy_text": "<p>We take safeguarding your details seriously. See our <a href='/privacy-policy'>privacy policy</a>."
+        "privacy_text": "<p>We take safeguarding your details seriously. See our <a href=\"/privacy-policy\">privacy policy</a>.</p>"
       }
     }
   },
