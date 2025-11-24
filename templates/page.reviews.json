@@ -75,6 +75,72 @@
             "foot_pos_y": 50,
             "foot_fit": "contain"
           }
+        },
+        "review_6qRDmC": {
+          "type": "review",
+          "settings": {
+            "name": "Jeff Yates",
+            "review_date": "18/10/2025",
+            "body": "<p>This was our third cafe shutters to be fitted in our Steading. An excellent service from initial visit, measurement, update on arrival and final fitting. Highly recommend this company and service.</p>",
+            "foot_pos_x": 50,
+            "foot_pos_y": 50,
+            "foot_fit": "contain"
+          }
+        },
+        "review_Lie8fV": {
+          "type": "review",
+          "settings": {
+            "name": "Kevin Edwards",
+            "review_date": "16/10/2025",
+            "body": "<p>there are great to work with as there helpful and polite and the blind fitter is good to chat with and if there is delays they phone you to keep you updated,i highly recommend grampian blinds.</p>",
+            "foot_pos_x": 50,
+            "foot_pos_y": 50,
+            "foot_fit": "contain"
+          }
+        },
+        "review_TwhqdC": {
+          "type": "review",
+          "settings": {
+            "name": "Margaret Williamson",
+            "review_date": "28/09/2025",
+            "body": "<p>Never go anywhere for our blinds but Grampian Blinds. Service is great, fits perfectly, great value. Always keep it local</p>",
+            "foot_pos_x": 50,
+            "foot_pos_y": 50,
+            "foot_fit": "contain"
+          }
+        },
+        "review_rc7iri": {
+          "type": "review",
+          "settings": {
+            "name": "Robert Hay",
+            "review_date": "15/09/2025",
+            "body": "<p>Good customer facing and very helpful in helping us choose the blinds we required.<br/>The installer was very professional and had the new blinds up in no time and very tidy and took away old blinds.</p>",
+            "foot_pos_x": 50,
+            "foot_pos_y": 50,
+            "foot_fit": "contain"
+          }
+        },
+        "review_mpCEW9": {
+          "type": "review",
+          "settings": {
+            "name": "Mike Metselaar",
+            "review_date": "07/09/2025",
+            "body": "<p>We are very happy with the blinds installed by Grampian Blinds. We are particularly impressed with the cartridge blind system which fits neatly inside the boundaries of the 2 patio door windows.</p>",
+            "foot_pos_x": 50,
+            "foot_pos_y": 50,
+            "foot_fit": "contain"
+          }
+        },
+        "review_F8aP6L": {
+          "type": "review",
+          "settings": {
+            "name": "Linda Cowie",
+            "review_date": "05/09/2025",
+            "body": "<p>Very happy with my new blinds.<br/>ALL staff involved, from the estimate to fitting were friendly, knowledgeable and helpful</p>",
+            "foot_pos_x": 50,
+            "foot_pos_y": 50,
+            "foot_fit": "contain"
+          }
         }
       },
       "block_order": [
@@ -83,7 +149,13 @@
         "rating_tile_tfD7zG",
         "review_7eDLYX",
         "review_78cRBr",
-        "review_ybCyaf"
+        "review_ybCyaf",
+        "review_6qRDmC",
+        "review_Lie8fV",
+        "review_TwhqdC",
+        "review_rc7iri",
+        "review_mpCEW9",
+        "review_F8aP6L"
       ],
       "name": "Reviews & ratings",
       "settings": {
