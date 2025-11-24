@@ -96,7 +96,7 @@
   border-radius:66px;
   background: rgb(235, 236, 237)
 }
-.custom-popup-close:hover{
+.up-close:hover{
   cursor:pointer;
 }
 </style>
@@ -107,13 +107,13 @@
         <div class="custom-popup-img ">
         <button class="custom-popup-close" id="custom-popup-close">Close</button>
         <span></span>
-        <img src="https://cdn.shopify.com/s/files/1/0631/1375/6761/files/Shutters_Kitchen_TierOnTier_02-min.jpg?v=1743417595" height="100%" width="100%">
+        <img src="{{ section.settings.image | image_url }}" height="100%" width="100%">
       </div>
       <div class="custom-popup-content">
-        <p class="custom-popup-subtitle">We're offering YOU</p>
-        <h1 class="custom-popup-title">up to 50% OFF selected fabrics!</h1> 
-        <p class="font-extralight">To take advantage of this limited time offer book your appointment today!</p>
-        <a href="https://www.goldcrest-blinds.co.uk/pages/booking"  class="container-btn button button--primary">Book your FREE Appointment</a>
+        <p class="custom-popup-subtitle">{{ section.settings.subtitle }}</p>
+        <h1 class="custom-popup-title">{{ section.settings.title }}</h1> 
+        <p class="font-extralight">{{ section.settings.extra_text }}</p>
+        <a href="{{ section.settings.button_url }}"  class="container-btn button button--primary">{{ section.settings.button_text }}</a>
       </div>
       </div>
     </div>
@@ -121,6 +121,40 @@
 {
   "name": "Custom Popup Bar",
   "settings": [
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Image"
+    },
+    {
+      "type": "text",
+      "id": "subtitle",
+      "label": "Subtitle",
+      "default": "We're offering YOU"
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "up to 50% OFF selected fabrics!"
+    },
+    {
+      "type": "text",
+      "id": "extra_text",
+      "label": "Extra Text",
+      "default": "To take advantage of this limited time offer book your appointment today!"
+    },
+    {
+      "type": "text",
+      "id": "button_text",
+      "label": "Button Text",
+      "default": "Book your FREE Appointment"
+    },
+    {
+      "type": "url",
+      "id": "button_url",
+      "label": "Button URL",
+    },
 
   ],
   "presets": [
@@ -151,10 +185,8 @@
     const element = document.getElementById('custom-popup');
     const box = document.getElementById('custom-box');
     if(!element || !box) return;
-    console.log("Rendering user offer");
     showPopup(element, box)
     element.addEventListener('click', function() {
-      console.log('Element clicked!');
       hidePopup(element, box);
     });
 
