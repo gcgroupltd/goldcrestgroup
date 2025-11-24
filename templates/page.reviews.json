@@ -141,6 +141,17 @@
             "foot_pos_y": 50,
             "foot_fit": "contain"
           }
+        },
+        "review_TirFcM": {
+          "type": "review",
+          "settings": {
+            "name": "Sandra Reid",
+            "review_date": "01/09/2025",
+            "body": "<p>Wouldn't consider going anywhere else. Professional, efficient and terrific service from start to finish.</p>",
+            "foot_pos_x": 50,
+            "foot_pos_y": 50,
+            "foot_fit": "contain"
+          }
         }
       },
       "block_order": [
@@ -155,7 +166,8 @@
         "review_TwhqdC",
         "review_rc7iri",
         "review_mpCEW9",
-        "review_F8aP6L"
+        "review_F8aP6L",
+        "review_TirFcM"
       ],
       "name": "Reviews & ratings",
       "settings": {
