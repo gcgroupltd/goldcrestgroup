@@ -67,6 +67,7 @@
           "type": "collection",
           "settings": {
             "collection": "vertical-blinds-aberdeen",
+            "custom_image": "shopify://shop_images/aquarius-24-vertical_blinds_shona-moss_593-101_1ba721b0-524e-439b-a045-00ffd8357ddb.jpg",
             "custom_alt_text": "",
             "custom_title": "Vertical Blinds"
           }
@@ -75,6 +76,7 @@
           "type": "collection",
           "settings": {
             "collection": "window-shutters-aberdeen",
+            "custom_image": "shopify://shop_images/Shutters_Kitchen_TierOnTier_02_1.jpg",
             "custom_alt_text": "",
             "custom_title": "Shutters"
           }
@@ -83,6 +85,7 @@
           "type": "collection",
           "settings": {
             "collection": "pleated-blinds-aberdeen",
+            "custom_image": "shopify://shop_images/eclipse-Hive_Deluxe_Lemon.jpg",
             "custom_alt_text": "",
             "custom_title": "Pleated Blinds"
           }
@@ -91,6 +94,7 @@
           "type": "collection",
           "settings": {
             "collection": "wooden-blinds-aberdeen",
+            "custom_image": "shopify://shop_images/Starwood_Pavilion.jpg",
             "custom_alt_text": "",
             "custom_title": "Wooden Blinds"
           }
@@ -115,6 +119,7 @@
           "type": "collection",
           "settings": {
             "collection": "roman-blinds-aberdeen",
+            "custom_image": "shopify://shop_images/PICNIC_MEADOW_4047d6a7-f753-4dad-8ab9-09628b1f17d2.jpg",
             "custom_alt_text": "",
             "custom_title": "Roman Blinds"
           }
