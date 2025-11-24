@@ -234,6 +234,7 @@
         "card_Y4RaaG": {
           "type": "card",
           "settings": {
+            "card_image": "shopify://shop_images/ARENA_24_ROMAN-BLIND-OCEAN-NATURAL-LANDSCAPE-02_1.jpg",
             "card_title": "Roman Blinds",
             "card_text": "<p>Combining the sleek functionality of blinds with the style status of curtains.</p>",
             "card_button_label": "View Roman Blinds",
@@ -243,6 +244,7 @@
         "card_4RkLaC": {
           "type": "card",
           "settings": {
+            "card_image": "shopify://shop_images/LL_Roller_Dunham_Terracotta_BO_Bed_Main2_Web.jpg",
             "card_title": "Blackout blinds",
             "card_text": "<p>Reduce the amount of light coming in to your home with specialist blackout fabrics and finishes.</p>",
             "card_button_label": "View Blackout Blinds",
@@ -252,6 +254,7 @@
         "card_XkR8H7": {
           "type": "card",
           "settings": {
+            "card_image": "shopify://shop_images/LL_2023_Vision_Arezzo_Grey_Liv_Mail.jpg",
             "card_title": "Day and Night Blinds",
             "card_text": "<p>This day and night blinds works like a Venetiion, giving you total control over light and privacy.</p>",
             "card_button_label": "View Day and Night Blinds",
@@ -261,6 +264,7 @@
         "card_pbMmFD": {
           "type": "card",
           "settings": {
+            "card_image": "shopify://shop_images/arena_tech-light_louvers-01.png",
             "card_title": "Wooden Blinds",
             "card_text": "<p>Wooden blinds sample text, sample text, sample text, sample text</p>",
             "card_button_label": "Learn More",
