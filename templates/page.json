@@ -28,11 +28,12 @@
       "type": "custom-newsletter",
       "name": "Custom Newsletter",
       "settings": {
+        "image": "shopify://shop_images/ARENA-ROM-PALMIRO-CHARTREUSE-RT-11.webp",
         "background_color": "#2e2e2e",
         "text_color": "#fcfcfc",
         "heading": "Sign up to our newsletter",
         "text": "<p>Enter your email address to receive updates on our latest collections, trends and exclusive offers.</p>",
-        "privacy_text": "<p>We take safeguarding your details seriously. See our <a href='/privacy-policy'>privacy policy</a>."
+        "privacy_text": "<p>We take safeguarding your details seriously. See our <a href=\"/privacy-policy\">privacy policy</a>.</p>"
       }
     }
   },
