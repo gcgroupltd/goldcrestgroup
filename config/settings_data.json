@@ -14,7 +14,7 @@
     "favicon": "shopify://shop_images/grampian-favicon.webp",
     "color_background": "#ffffff",
     "color_text": "#1a1a1a",
-    "color_primary_button_background": "#00c3ff",
+    "color_primary_button_background": "#d92d3c",
     "color_secondary_button_background": "#00c3ff",
     "color_secondary_button_text": "#ffffff",
     "type_header_font": "cormorant_n5",
@@ -240,16 +240,6 @@
     },
     "content_for_index": [],
     "blocks": {
-      "18131037017812181619": {
-        "type": "shopify://apps/mailchimp-email-sms/blocks/mailchimp_for_shopify_script/e3b67dce-fd41-4b61-b3cf-961c12344cde",
-        "disabled": false,
-        "settings": {}
-      },
-      "13768625480086291342": {
-        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
-        "disabled": false,
-        "settings": {}
-      },
       "15683396631634586217": {
         "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
