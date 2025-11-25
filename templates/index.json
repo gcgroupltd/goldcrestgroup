@@ -44,6 +44,12 @@
         "external": "",
         "title": "Christmas Sale",
         "text": "This November, book your free measure appointment to enjoy exclusive discounts. Don't miss out - Our sale ends soon!",
+        "button_url_1": "shopify://collections/all",
+        "button_text_1": "Blinds",
+        "button_url_2": "shopify://collections/all",
+        "button_text_2": "Shutters",
+        "button_url_3": "shopify://pages/about-us",
+        "button_text_3": "Curtains",
         "show_dots": true,
         "interval_ms": 9000,
         "transition_ms": 600
