@@ -28,7 +28,7 @@
       "type": "header",
       "settings": {
         "logo_position": "top-center",
-        "menu": "main-menu",
+        "menu": "main-menu-1",
         "menu_type_desktop": "mega",
         "sticky_header_type": "none",
         "show_line_separator": true,
@@ -40,7 +40,7 @@
       "settings": {
         "use_image": false,
         "text": "Christmas Sale Now On!",
-        "external": "https://book.grampian-blinds.co.uk/"
+        "external": "https://book.baileys-blinds.co.uk/"
       }
     }
   },
