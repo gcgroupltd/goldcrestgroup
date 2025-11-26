@@ -13,6 +13,7 @@
     "favicon": "shopify://shop_images/rainbow-favicon.png",
     "color_primary_button_background": "#d92d3c",
     "page_width": 1400,
+    "404_button_url": "shopify://collections",
     "content_for_index": []
   }
 }
