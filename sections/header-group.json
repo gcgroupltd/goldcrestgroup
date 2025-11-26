@@ -20,7 +20,7 @@
       "type": "topbar",
       "settings": {
         "number": "01224 662 884",
-        "topbar_button_url": "https://book.grampian-blinds.co.uk",
+        "topbar_button_url": "https://booking-form-shopify-app.vercel.app/",
         "topbar_button_text": "Request Your Free Appointment"
       }
     },
@@ -38,6 +38,7 @@
     "advert_a3xDxf": {
       "type": "advert",
       "settings": {
+        "use_image": false,
         "text": "Christmas Sale Now On!",
         "external": "https://book.grampian-blinds.co.uk/"
       }
