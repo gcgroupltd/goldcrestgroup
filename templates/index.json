@@ -17,7 +17,7 @@
         "title": "up to 50% OFF selected fabrics!",
         "extra_text": "To take advantage of this limited time offer book your appointment today!",
         "button_text": "Book your FREE Appointment",
-        "button_url": "https://book.grampian-blinds"
+        "button_url": "https://book.grampian-blinds.co.uk"
       }
     },
     "banner_kWmQqH": {
@@ -47,6 +47,12 @@
         "image": "shopify://shop_images/Kassala_Emerald_Kitchen_Roller.webp",
         "title": "Christmas Sale",
         "text": "This November, book your free measure appointment to enjoy exclusive discounts. Don't miss out - Our sale ends soon!",
+        "button_url_1": "",
+        "button_text_1": "Blinds",
+        "button_url_2": "",
+        "button_text_2": "Shutters",
+        "button_url_3": "",
+        "button_text_3": "Curtains",
         "show_dots": true,
         "interval_ms": 9000,
         "transition_ms": 600
@@ -55,124 +61,118 @@
     "custom_collection_grid_yi6cCK": {
       "type": "custom-collection-grid",
       "blocks": {
-        "collection_UnzhVV": {
+        "collection_Hq6m4a": {
           "type": "collection",
           "settings": {
-            "collection": "roller-blinds-aberdeen",
+            "collection": "roller-blinds-in-grampian",
             "custom_alt_text": "",
             "custom_title": "Roller Blinds"
           }
         },
-        "collection_R6wLbz": {
+        "collection_wjLD64": {
           "type": "collection",
           "settings": {
-            "collection": "vertical-blinds-aberdeen",
-            "custom_image": "shopify://shop_images/aquarius-24-vertical_blinds_shona-moss_593-101_1ba721b0-524e-439b-a045-00ffd8357ddb.jpg",
+            "collection": "vertical-blinds-in-grampian",
             "custom_alt_text": "",
             "custom_title": "Vertical Blinds"
           }
         },
-        "collection_Ucb8dB": {
+        "collection_qJ69rp": {
           "type": "collection",
           "settings": {
-            "collection": "window-shutters-aberdeen",
-            "custom_image": "shopify://shop_images/Shutters_Kitchen_TierOnTier_02_1.jpg",
+            "collection": "window-shutters-in-grampian",
             "custom_alt_text": "",
             "custom_title": "Shutters"
           }
         },
-        "collection_wNdEet": {
+        "collection_zPRkad": {
           "type": "collection",
           "settings": {
-            "collection": "pleated-blinds-aberdeen",
-            "custom_image": "shopify://shop_images/eclipse-Hive_Deluxe_Lemon.jpg",
+            "collection": "pleated-blinds-in-grampian",
             "custom_alt_text": "",
             "custom_title": "Pleated Blinds"
           }
         },
-        "collection_eKEHwt": {
+        "collection_DbtYRb": {
           "type": "collection",
           "settings": {
-            "collection": "wooden-blinds-aberdeen",
-            "custom_image": "shopify://shop_images/Starwood_Pavilion.jpg",
+            "collection": "wooden-blinds-in-grampian",
             "custom_alt_text": "",
             "custom_title": "Wooden Blinds"
           }
         },
-        "collection_mAeGxd": {
+        "collection_8rxE8t": {
           "type": "collection",
           "settings": {
-            "collection": "blackout-curtains-in-grampian",
+            "collection": "vision-blinds-in-grampian",
             "custom_alt_text": "",
-            "custom_title": "Blackout Curtains"
+            "custom_title": "Vision Blinds"
           }
         },
-        "collection_8eW9FR": {
+        "collection_izQ7kC": {
           "type": "collection",
           "settings": {
-            "collection": "eyelet-curtains-aberdeen",
-            "custom_image": "shopify://shop_images/arturo_porcelain.jpg",
+            "collection": "curtains",
             "custom_alt_text": "",
-            "custom_title": "Eyelet Curtains"
+            "custom_title": "Curtains"
           }
         },
-        "collection_kjUeGP": {
+        "collection_EAg9nF": {
           "type": "collection",
           "settings": {
-            "collection": "roman-blinds-aberdeen",
-            "custom_image": "shopify://shop_images/PICNIC_MEADOW_4047d6a7-f753-4dad-8ab9-09628b1f17d2.jpg",
+            "collection": "roman-blinds-in-grampian",
             "custom_alt_text": "",
             "custom_title": "Roman Blinds"
           }
         },
-        "collection_P4MAgk": {
+        "collection_86gKm3": {
           "type": "collection",
           "settings": {
-            "collection": "perfect-fit-blinds-aberdeen",
+            "collection": "perfect-fit-blinds-in-grampian",
             "custom_image": "shopify://shop_images/arena_24_perfect_fit_roller_athena-coral-26.jpg",
             "custom_alt_text": "",
             "custom_title": "Perfect Fit Blinds"
           }
         },
-        "collection_YPVd8i": {
+        "collection_8y7Qff": {
           "type": "collection",
           "settings": {
-            "collection": "venetian-blinds-aberdeen",
-            "custom_image": "shopify://shop_images/Venetian_Mojito_Open_Kids_Bedroom-min.jpg",
+            "collection": "venetian-blinds-in-grampian",
+            "custom_image": "shopify://shop_images/Venetian_FireEngineRed_Kids_Bedroom-min.jpg",
             "custom_alt_text": "",
             "custom_title": "Venetian Blinds"
           }
         },
-        "collection_wEcPpD": {
+        "collection_eqwenN": {
           "type": "collection",
           "settings": {
-            "collection": "conservatory-blinds-aberdeen",
+            "collection": "conservatory-blinds-in-grampian",
             "custom_alt_text": "",
             "custom_title": "Conservatory Blinds"
           }
         },
-        "collection_gx6jEL": {
+        "collection_afMgPM": {
           "type": "collection",
           "settings": {
-            "collection": "electric-blinds-aberdeen",
+            "collection": "electric-blinds-in-grampian",
             "custom_alt_text": "",
             "custom_title": "Electric Blinds"
           }
         }
       },
       "block_order": [
-        "collection_UnzhVV",
-        "collection_R6wLbz",
-        "collection_Ucb8dB",
-        "collection_wNdEet",
-        "collection_eKEHwt",
-        "collection_mAeGxd",
-        "collection_8eW9FR",
-        "collection_kjUeGP",
-        "collection_P4MAgk",
-        "collection_YPVd8i",
-        "collection_wEcPpD",
-        "collection_gx6jEL"
+        "collection_Hq6m4a",
+        "collection_wjLD64",
+        "collection_qJ69rp",
+        "collection_zPRkad",
+        "collection_DbtYRb",
+        "collection_8rxE8t",
+        "collection_izQ7kC",
+        "collection_EAg9nF",
+        "collection_86gKm3",
+        "collection_8y7Qff",
+        "collection_eqwenN",
+        "collection_afMgPM"
       ],
       "name": "Custom Collection Grid",
       "settings": {
@@ -385,7 +385,7 @@
         "card_TVYxUU": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/website_icons-2_4.png",
+            "card_image": "shopify://shop_images/image_9.png",
             "card_title": "Visit our Showoom",
             "card_text": "<p>Want to see and feel the quality for yourself? Visit our showroom to browse the complete collection. Our expert team will be on hand to offer advice and inspiration.</p>",
             "button_label": "Visit Us",

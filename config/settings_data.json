@@ -13,6 +13,8 @@
     "favicon": "shopify://shop_images/grampian-favicon.webp",
     "color_primary_button_background": "#00c3ff",
     "color_secondary_button_background": "#00c3ff",
+    "social_facebook_link": "https://www.facebook.com/grampianblinds/",
+    "social_instagram_link": "https://www.instagram.com/grampianblinds/",
     "404_button_url": "shopify://collections",
     "content_for_index": []
   }
