@@ -17,6 +17,22 @@
     "social_instagram_link": "https://www.instagram.com/grampianblinds/",
     "google_tag_id": "GTM-MBSKPZX",
     "404_button_url": "shopify://collections",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "15683396631634586217": {
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#b89454",
+          "secondary_color": "#FFFFFF",
+          "ternary_color": "#000000",
+          "button_icon": "chat_bubble",
+          "button_text": "need_help",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": "Hi there! 👋 Welcome to Grampian Blinds. Can we help you find the perfect blinds today?"
+        }
+      }
+    }
   }
 }
