@@ -1,0 +1,14 @@
+{% layout 'theme' %}
+
+<style>
+    .page-404 {
+        padding: 50px 0;
+        text-align: center;
+    }
+</style>
+
+<div class="page-width page-404">
+    <h1>{{ settings.404_title }}</h1>
+    <h2>{{ settings.404_subtitle }}</h2>
+    <a href="{{ settings.404_button_url }}" class="button button--primary">{{ settings.404_button_text }}</a>
+</div>

@@ -129,8 +129,8 @@
         "id": "page_width",
         "min": 1000,
         "max": 1600,
-        "step": 100,
-        "default": 1200,
+        "step": 10,
+        "default": 1400,
         "unit": "px",
         "label": "t:settings_schema.layout.settings.page_width.label"
       },
@@ -1011,5 +1011,32 @@
         "default": "GTM-XXXXXXX",
       }
     ]
+  },
+  {
+    "name": "404 Page",
+    "settings": [{
+      "type": "text",
+      "id": "404_title",
+      "label": "404 Title",
+      "default": "404 Error"
+    },
+    {
+      "type": "text",
+      "id": "404_subtitle",
+      "label": "404 Subtitle",
+      "default": "Page not Found"
+    },
+    {
+      "type": "url",
+      "id": "404_button_url",
+      "label": "404 Button URL"
+    },
+    {
+      "type": "text",
+      "id": "404_button_text",
+      "label": "404 Button Text",
+      "default": "See all collections"
+    }
+  ]
   }
 ]
