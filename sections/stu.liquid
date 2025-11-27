@@ -143,7 +143,7 @@
       </aside>
     <aside class="bnr__aside">
         <div class="bnr__aside__content">
-            <h1 class="bnr-title">{{ section.settings.collection_title | default: collection.title }}</h1>
+            <h1 class="bnr-title">{{ collection.metafields.custom.collection_page_title | default: collection.title }}</h1>
             <div class="bnr-para">
                 {{ collection.description }}
             </div>
@@ -168,11 +168,6 @@
       "type": "header",
       "content": "Information",
       "info": "This component uses the upper most Block content. This allows us to save presets for future sales and manage our content easily.",
-    },
-    {
-      "type": "text",
-      "id": "collection_title",
-      "label": "Collection Title",
     },
     {
       "type": "url",
