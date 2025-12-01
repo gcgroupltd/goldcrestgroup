@@ -89,11 +89,7 @@
     </div>
   </div>
 
-  <div class="commercial-baileys__form">
-    <div class="commercial-baileys-page__form__content">
-      <h2>{{ section.settings.contact_us_title }}</h2>
-      <p>{{ section.settings.contact_us_content }}</p>
-    </div>
+  <div class="commercial-baileys-page__form">
     {% form 'contact' %}
       {{ form.errors | default_errors }}
 
@@ -182,26 +178,6 @@
       "id": "opening_hours_content",
       "label": "Content",
       "default": "You can arrange for a free design consultation in the privacy of your own home or you can view our extensive range of blinds and other products at our shop. We look forward to hearing from you."
-    },
-    {
-      "type": "header",
-      "content": "Contact Us Section"
-    },
-    {
-      "type": "paragraph",
-      "content": "This form sends to sales@, which can be changed in the store admin."
-    },
-    {
-      "type": "text",
-      "id": "contact_us_title",
-      "label": "Contact Us Title",
-      "default": "Contact Us"
-    },
-    {
-      "type": "text",
-      "id": "contact_us_content",
-      "label": "Contact Us Content",
-      "default": "Complete this quick enquiry form and we will get back to you soon."
     },
   ],
   "presets": [
