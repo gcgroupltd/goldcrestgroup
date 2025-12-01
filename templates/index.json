@@ -23,20 +23,30 @@
     "banner_kWmQqH": {
       "type": "banner",
       "blocks": {
+        "slide_E6eGpb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/arena_2024_roller-blinds_shona-midnight-3.jpg",
+            "alt": ""
+          }
+        },
         "slide_6ja6iQ": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Montana_-_Pure_White_001_E_1.jpg",
             "alt": ""
           }
         },
         "slide_KTj37H": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/ARENA_24_CURTAIN-DAISY-CHAIN-SHADOW-PORTRAIT-03_1.jpg",
             "alt": ""
           }
         }
       },
       "block_order": [
+        "slide_E6eGpb",
         "slide_6ja6iQ",
         "slide_KTj37H"
       ],
