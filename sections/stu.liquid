@@ -143,10 +143,10 @@
       </aside>
     <aside class="bnr__aside">
         <div class="bnr__aside__content">
-            <h1 class="bnr-title"> {{ collection.title }}</h1>
-            <p class="bnr-para">
+            <h1 class="bnr-title">{{ collection.metafields.custom.collection_page_title | default: collection.title }}</h1>
+            <div class="bnr-para">
                 {{ collection.description }}
-            </p>
+            </div>
               <div class="bnr-c">
               <a  href="{{ section.settings.button_url }}" style="max-width:max-content;" class="container-btn button button--primary">{{ section.settings.button_text }}</a>
             </div>
