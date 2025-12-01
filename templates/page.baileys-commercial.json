@@ -1,8 +1,24 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
-      "type": "baileys-commercial"
+      "type": "baileys-commercial",
+      "settings": {
+        "title": "Commercial Blinds & Contracts",
+        "content": "<p>We are a leading contracts company for supplying commercial blinds in the UK. Our Commercial Team can help your project with any window blind, curtain, cubicle track and shading requirements – we cover all installations and have worked successfully on most of the major projects in the country. </p><p>We aim to be the partner of choice when considering solar shading solutions for any project of any size.</p><p>Whatever your requirements we will have a solution that suits.</p>",
+        "image": "shopify://shop_images/baileys-commercial.webp"
+      }
     }
   },
-  "order": ["main"]
+  "order": [
+    "main"
+  ]
 }
