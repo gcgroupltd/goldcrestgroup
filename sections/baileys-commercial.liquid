@@ -29,6 +29,14 @@
       text-decoration: underline;
     }
 
+    .commercial-baileys-page__hero__image, .commercial-baileys-page__hero__content {
+      width: calc(50% - 15px);
+    }
+
+    .commercial-baileys-page__hero img {
+      max-width: 100%;
+    }
+
     .commercial-baileys-page__form {
       display: flex;
       flex-wrap: wrap;
@@ -72,6 +80,16 @@
       width: 100%;
       font-size: 18px;
       padding: 10px;
+    }
+
+    .commercial-baileys-page__form button {
+      margin-top: 15px;
+    }
+
+    @media only screen and (max-width: 768px) {
+      .commercial-baileys-page__hero__image, .commercial-baileys-page__hero__content {
+        width: 100%;
+      }
     }
 
 </style>
@@ -158,26 +176,6 @@
         "type": "image_picker",
         "label": "Image",
         "id": "image",
-    },
-    {
-      "type": "header",
-      "content": "Opening Hours Section"
-    },
-    {
-      "type": "paragraph",
-      "content": "To change the opneing hours, see theme settings."
-    },
-    {
-      "type": "text",
-      "id": "opening_hours_title",
-      "label": "Title",
-      "default": "Store Opening Hours"
-    },
-    {
-      "type": "text",
-      "id": "opening_hours_content",
-      "label": "Content",
-      "default": "You can arrange for a free design consultation in the privacy of your own home or you can view our extensive range of blinds and other products at our shop. We look forward to hearing from you."
     },
   ],
   "presets": [
