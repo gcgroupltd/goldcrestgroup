@@ -166,32 +166,32 @@
           "type": "review",
           "settings": {
             "headline": "",
-            "text": "This was our third cafe shutters to be fitted in our Steading. An excellent service from initial visit, measurement, update on arrival and final fitting. Highly recommend this company and service.",
-            "author": "Jeff Yates"
+            "text": "We’ve just had our blinds fitted in three windows. Really good service and advice from start to finish and an absolute perfect fit, the fitter was really nice, very tidy and pretty quick.",
+            "author": "Christina Holloway"
           }
         },
         "review_nab8VB": {
           "type": "review",
           "settings": {
             "headline": "",
-            "text": "Never go anywhere for our blinds but Grampian Blinds. Service is great, fits perfectly, great value. Always keep it local",
-            "author": "Margaret Williamson"
+            "text": "So professional from start to finish. Exellent prices Beautiful blinds definitely recommend using Baileys blinds",
+            "author": "Amanda Lovick"
           }
         },
         "review_6Fx4eG": {
           "type": "review",
           "settings": {
             "headline": "",
-            "text": "Good customer facing and very helpful in helping us choose the blinds we required.\nThe installer was very professional and had the new blinds up in no time and very tidy and took away old blinds.",
-            "author": "Robert Hay"
+            "text": "Very Very efficient and lovely to speak to, the Blinds were measured and fitted perfectly and really reasonably priced. Would definately recommend.",
+            "author": "Janice Daglish"
           }
         },
         "review_FphPMR": {
           "type": "review",
           "settings": {
             "headline": "",
-            "text": "Very happy with my new blinds.\nALL staff involved, from the estimate to fitting were friendly, knowledgeable and helpful.",
-            "author": "Linda Cowie"
+            "text": "We are long term customers of Baileys Blinds and have always been given the highest service and customer care",
+            "author": "B Brohee"
           }
         }
       },
@@ -203,11 +203,12 @@
       ],
       "name": "Customer Testimonials",
       "settings": {
-        "background_color": "#f5f5f5",
+        "background_color": "#deced1",
         "trustpilot_summary_left": "Excellent",
-        "trustpilot_summary_right": "4.5 based on 188 reviews",
+        "trustpilot_summary_right": "4.7 based on 440 reviews",
         "trustpilot_link": "shopify://pages/reviews",
         "button_label": "See our Reviews",
+        "main_image": "shopify://shop_images/Pleated_customer_conservatory.webp",
         "autorotate": false,
         "autorotate_speed": 5
       }
