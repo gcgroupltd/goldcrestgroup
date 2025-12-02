@@ -61,8 +61,7 @@
         "intro_text": "From first visit to final fit, here’s our simple four‑step process.",
         "button_link": "",
         "button_label": "Book appointment now",
-        "button_color": "#d31a2f",
-        "main_image": "shopify://shop_images/LL_2023_Vision_Firenze_Walnut_Liv_Open_2_Mail.jpg"
+        "button_color": "#d31a2f"
       }
     },
     "how_it_works_PDfqXN": {
@@ -209,7 +208,6 @@
         "trustpilot_summary_right": "4.5 based on 188 reviews",
         "trustpilot_link": "shopify://pages/reviews",
         "button_label": "See our Reviews",
-        "main_image": "shopify://shop_images/Untitled_13.png",
         "autorotate": false,
         "autorotate_speed": 5
       }
@@ -223,7 +221,7 @@
         "main_heading": "The Right Fit, Every Time",
         "body_text": "<p>As the local experts in made-to-measure blinds, curtains, and shutters, we handle every detail. We ensure your items are perfectly tailored and installed, giving you a flawless result that's guaranteed to last.</p>",
         "button_label": "Book your Appointment",
-        "button_link": "https://book.goldcrest-blinds.co.uk/",
+        "button_link": "https://book.baileys-blinds.co.uk/",
         "right_image": "shopify://shop_images/Screenshot_2025-05-16_115925.webp",
         "right_bg_color": "#f5f5f5"
       }
@@ -234,7 +232,6 @@
         "card_Y4RaaG": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/ARENA_24_ROMAN-BLIND-OCEAN-NATURAL-LANDSCAPE-02_1.jpg",
             "card_title": "Roman Blinds",
             "card_text": "<p>Combining the sleek functionality of blinds with the style status of curtains.</p>",
             "card_button_label": "View Roman Blinds",
@@ -244,7 +241,6 @@
         "card_4RkLaC": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/LL_Roller_Dunham_Terracotta_BO_Bed_Main2_Web.jpg",
             "card_title": "Bedroom blinds",
             "card_text": "<p>Reduce the amount of light coming into your bedroom with specialist blackout blind fabrics and finishes.<br/></p>",
             "card_button_label": "View Bedroom Blinds",
@@ -254,7 +250,6 @@
         "card_XkR8H7": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/LL_2023_Vision_Arezzo_Grey_Liv_Mail.jpg",
             "card_title": "Day and Night Blinds",
             "card_text": "<p>This day and night blinds works like a Venetiion, giving you total control over light and privacy.</p>",
             "card_button_label": "View Day and Night Blinds",
@@ -264,7 +259,6 @@
         "card_pbMmFD": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/arena_tech-light_louvers-01.png",
             "card_title": "Wooden Blinds",
             "card_text": "<p>Wooden blinds sample text, sample text, sample text, sample text</p>",
             "card_button_label": "Learn More",
