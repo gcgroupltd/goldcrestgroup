@@ -272,9 +272,8 @@
         "card_DNfXdm": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/IMG_3582.heic",
             "card_title": "Made-to-Measure Perfection",
-            "card_text": "<p>Every blind, curtain and shutter is custom-made in our factory for a flawless fit, using the highest quality materials to complement your space beautifully.</p>",
+            "card_text": "<p>Every blind, curtain, and shutter is custom-made in our factory in Scotland for a flawless fit, using the highest quality materials to complement your space beautifully.</p>",
             "card_button_label": "Learn More",
             "card_button_link": "shopify://pages/about-us"
           }
@@ -282,7 +281,6 @@
         "card_PAkbAm": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/Baileys_shop_front.jpg",
             "card_title": "Local Showroom",
             "card_text": "<p>For more than three decades, we have been an integral part of the local community, offering a showroom open on Weekdays from 9 am to 5 pm.</p>",
             "card_button_label": "Learn More",
