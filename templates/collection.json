@@ -232,37 +232,41 @@
         "card_Y4RaaG": {
           "type": "card",
           "settings": {
+            "card_image": "shopify://shop_images/roman.webp",
             "card_title": "Roman Blinds",
             "card_text": "<p>Combining the sleek functionality of blinds with the style status of curtains.</p>",
             "card_button_label": "View Roman Blinds",
-            "card_button_link": "shopify://collections/roman-blinds-aberdeen"
+            "card_button_link": "shopify://collections/newcastle-roman-blinds"
           }
         },
         "card_4RkLaC": {
           "type": "card",
           "settings": {
+            "card_image": "shopify://shop_images/pleat.webp",
             "card_title": "Bedroom blinds",
             "card_text": "<p>Reduce the amount of light coming into your bedroom with specialist blackout blind fabrics and finishes.<br/></p>",
             "card_button_label": "View Bedroom Blinds",
-            "card_button_link": "shopify://collections/bedroom-blinds-aberdeen"
+            "card_button_link": "shopify://collections/newcastle-bedroom-blinds"
           }
         },
         "card_XkR8H7": {
           "type": "card",
           "settings": {
+            "card_image": "shopify://shop_images/day_and_night.webp",
             "card_title": "Day and Night Blinds",
             "card_text": "<p>This day and night blinds works like a Venetiion, giving you total control over light and privacy.</p>",
             "card_button_label": "View Day and Night Blinds",
-            "card_button_link": "shopify://collections/vision-blinds-aberdeen"
+            "card_button_link": "shopify://collections/newcastle-day-night-blinds"
           }
         },
         "card_pbMmFD": {
           "type": "card",
           "settings": {
+            "card_image": "shopify://shop_images/wooden_blind.webp",
             "card_title": "Wooden Blinds",
             "card_text": "<p>Wooden blinds sample text, sample text, sample text, sample text</p>",
-            "card_button_label": "Learn More",
-            "card_button_link": "shopify://collections/wooden-blinds-aberdeen"
+            "card_button_label": "View Wooden Blinds",
+            "card_button_link": "shopify://collections/newcastle-wooden-blinds"
           }
         }
       },
