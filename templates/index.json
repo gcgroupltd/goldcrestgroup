@@ -11,13 +11,13 @@
   "sections": {
     "custom_popup_nHPGjB": {
       "type": "custom-popup",
-      "disabled": true,
       "settings": {
+        "image": "shopify://shop_images/Montana_-_Pure_White_001_E_1_bbc82e6d-e3f5-4ebe-b1be-ee96bec018c7.jpg",
         "subtitle": "We're offering YOU",
         "title": "up to 50% OFF selected fabrics!",
         "extra_text": "To take advantage of this limited time offer book your appointment today!",
         "button_text": "Book your FREE Appointment",
-        "button_url": "https://book.grampian-blinds"
+        "button_url": "https://book.baileys-blinds.co.uk"
       }
     },
     "banner_kWmQqH": {
@@ -394,7 +394,7 @@
             "card_title": "Visit our Showoom",
             "card_text": "<p>Want to see and feel the quality for yourself? Visit our showroom to browse the complete collection. Our expert team will be on hand to offer advice and inspiration.</p>",
             "button_label": "Visit Us",
-            "button_link": "https://maps.app.goo.gl/4gqQTu7xVxjb1Yt47",
+            "button_link": "https://maps.app.goo.gl/cVgwxdMdTSdc4YUN7",
             "external_link": true,
             "card_background_color": "#fcfcfc",
             "card_text_color": "#333333"

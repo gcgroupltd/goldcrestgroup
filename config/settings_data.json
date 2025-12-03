@@ -13,6 +13,8 @@
     "favicon": "shopify://shop_images/rainbow-favicon.png",
     "color_primary_button_background": "#d92d3c",
     "page_width": 1400,
+    "social_facebook_link": "https://www.facebook.com/baileysofficial",
+    "social_instagram_link": "https://www.instagram.com/baileysblinds1968/",
     "google_tag_id": "GTM-MBSKPZX",
     "404_button_url": "shopify://collections",
     "content_for_index": []
