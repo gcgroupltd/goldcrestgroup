@@ -1,0 +1,8 @@
+{
+  "sections": {
+    "main": {
+      "type": "baileys-commercial"
+    }
+  },
+  "order": ["main"]
+}

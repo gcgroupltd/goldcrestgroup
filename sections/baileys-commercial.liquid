@@ -1,0 +1,187 @@
+<style>
+    .small-page-width {
+        max-width: 1140px;
+        margin: 0 auto;
+    }
+    .commercial-baileys-page {
+      padding: 60px 15px;
+    }
+    .commercial-baileys-page__hero {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .commercial-baileys-page__hero__map iframe {
+      max-width: 100%;
+    }
+
+    .commercial-baileys-page__hero h1 {
+      margin-top: 0;
+    }
+
+    .commercial-baileys-page__hero a {
+      color: var(--primary-button-colour);
+      text-decoration: none
+    }
+
+    .commercial-baileys-page__hero a:hover {
+      text-decoration: underline;
+    }
+
+    .commercial-baileys-page__hero__image, .commercial-baileys-page__hero__content {
+      width: calc(50% - 15px);
+    }
+
+    .commercial-baileys-page__hero img {
+      max-width: 100%;
+    }
+
+    .commercial-baileys-page__form {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      margin-top: 60px;
+    }
+
+    .commercial-baileys-page__form form {
+      widtH: 100%;
+    }
+
+    .commercial-baileys-page__form .fields {
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+
+  .commercial-baileys-page__form .fields p {
+      width: 100%;
+      font-size: 18px;
+      margin-bottom: 0;
+    }
+
+    .commercial-baileys-page__form .fields p span {
+      font-size: 12px;
+    }
+
+    .commercial-baileys-page__form .fields div {
+      width: 100%;
+    }
+    .commercial-baileys-page__form .fields--half div {
+      width: calc(50% - 5px);
+    }
+    .commercial-baileys-page__form .fields div label {
+      width: 100%;
+      display: block;
+      font-size: 12px;
+    }
+    .commercial-baileys-page__form .fields div input, .contact-page__form .fields div textarea {
+      width: 100%;
+      font-size: 18px;
+      padding: 10px;
+    }
+
+    .commercial-baileys-page__form button {
+      margin-top: 15px;
+    }
+
+    @media only screen and (max-width: 768px) {
+      .commercial-baileys-page__hero__image, .commercial-baileys-page__hero__content {
+        width: 100%;
+      }
+    }
+
+</style>
+
+<div class="commercial-baileys-page page-width">
+  <div class="commercial-baileys-page__hero">
+
+    <div class="commercial-baileys-page__hero__image">
+      <img src="{{ section.settings.image | image_url }}" alt="">
+    </div>
+
+    <div class="commercial-baileys-page__hero__content">
+      <h1>{{ section.settings.title }}</h1>
+      {{ section.settings.content }}
+    </div>
+  </div>
+
+  <div class="commercial-baileys-page__form">
+    {% form 'contact' %}
+      {{ form.errors | default_errors }}
+
+      <div class="fields fields--half">
+          <p>Name <span>(required)</span></p>
+          <div>
+            <label>First Name</label>
+            <input type="text" name="contact[firstname]" required>
+          </div>
+          <div>
+            <label>Last Name</label>
+            <input type="text" name="contact[lastname]" required>
+          </div>
+      </div>
+
+      <div class="fields">
+          <p>Company <span>(required)</span></p>
+          <div>
+            <input type="text" name="contact[company]" required>
+          </div>
+      </div>
+
+      <div class="fields">
+        <p>Telephone <span>(required)</span></p>
+        <div>
+          <input type="text" name="contact[phone]" required>
+        </div>
+      </div>
+
+      <div class="fields">
+        <p>Email <span>(required)</span></p>
+        <div>
+          <input type="email" name="contact[email]" required>
+        </div>
+      </div>
+
+      <button type="submit" class="button button--primary">Send message</button>
+
+      {% if form.posted_successfully? %}
+        <p class="success-message">Thanks — we'll get back to you soon!</p>
+      {% endif %}
+    {% endform %}
+    </div>
+</div>
+
+{% schema %}
+{
+  "name": "Commercial Baileys Page",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Hero Section"
+    },
+    {
+      "type": "text",
+      "label": "Title",
+      "id": "title",
+      "default": "Our Showroom & Office"
+    },
+    {
+      "type": "richtext",
+      "label": "Content",
+      "id": "content",
+    },
+    {
+        "type": "image_picker",
+        "label": "Image",
+        "id": "image",
+    },
+  ],
+  "presets": [
+    {
+      "name": "Commercial Baileys Page"
+    }
+  ]
+}
+{% endschema %}
