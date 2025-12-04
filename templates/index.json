@@ -11,6 +11,7 @@
   "sections": {
     "custom_popup_nHPGjB": {
       "type": "custom-popup",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Montana_-_Pure_White_001_E_1_bbc82e6d-e3f5-4ebe-b1be-ee96bec018c7.jpg",
         "subtitle": "We're offering YOU",
