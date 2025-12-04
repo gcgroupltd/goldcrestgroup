@@ -23,32 +23,32 @@
           "type": "rating_tile",
           "settings": {
             "tile_label": "Overall",
-            "tile_rating": "4.5",
-            "tile_reviews": "188 reviews"
+            "tile_rating": "4.7",
+            "tile_reviews": "440 reviews"
           }
         },
         "rating_tile_HPXrCY": {
           "type": "rating_tile",
           "settings": {
             "tile_label": "Trustpilot",
-            "tile_rating": "4.6",
-            "tile_reviews": "135 reviews"
+            "tile_rating": "4.7",
+            "tile_reviews": "331 reviews"
           }
         },
         "rating_tile_tfD7zG": {
           "type": "rating_tile",
           "settings": {
             "tile_label": "Google",
-            "tile_rating": "4.4",
-            "tile_reviews": "53 reviews"
+            "tile_rating": "4.6",
+            "tile_reviews": "109 reviews"
           }
         },
         "review_7eDLYX": {
           "type": "review",
           "settings": {
-            "name": "Craig Michie",
-            "review_date": "01/10/2025",
-            "body": "<p>Superb from start to finish. From coming in and measuring up, providing ideas and their own opinions on what type of blinds would suit the room and to different colour options. All of which look the part once installed.</p>",
+            "name": "Mandy",
+            "review_date": "14/11/2025",
+            "body": "<p>Very polite and professional from start to end. I will definitely recommend Baileys Blinds to my family and friends. Thank you</p>",
             "foot_pos_x": 50,
             "foot_pos_y": 50,
             "foot_fit": "contain"
@@ -57,9 +57,9 @@
         "review_78cRBr": {
           "type": "review",
           "settings": {
-            "name": "Eileen Grassick",
-            "review_date": "11/10/2025",
-            "body": "<p>Our replacement blinds are lovely , just as we expected . Our fitter was most polite and friendly , carried out his work with utmost professionalism leaving his working area clean and tidy .<br/>We very much recommend Grampian Blinds Ltd.</p>",
+            "name": "Geraldine Chambers",
+            "review_date": "05/11/2025",
+            "body": "<p>Excellent service from the chap who came to measure and the young man who came to fit them lovely blinds would highly recommend this company</p>",
             "foot_pos_x": 50,
             "foot_pos_y": 50,
             "foot_fit": "contain"
