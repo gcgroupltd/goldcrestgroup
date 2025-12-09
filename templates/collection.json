@@ -16,55 +16,6 @@
         "button_text": "Request Your Free Appointment"
       }
     },
-    "how_it_works_down_9AWDpR": {
-      "type": "how-it-works-down",
-      "blocks": {
-        "step_EdiNVF": {
-          "type": "step",
-          "settings": {
-            "title": "Book your appointment",
-            "text": "<p>Choose a time that suits you and we’ll visit to discuss ideas.</p>"
-          }
-        },
-        "step_BnLmXj": {
-          "type": "step",
-          "settings": {
-            "title": "Survey & No Obligation Quote",
-            "text": "<p>Our experienced surveyor will confirm your choices and take precise measurements. We then provide a clear competitive quote with no obligation to proceed.</p>"
-          }
-        },
-        "step_q8C4Tb": {
-          "type": "step",
-          "settings": {
-            "title": "Quality Manufacturing",
-            "text": "<p>Once you're happy, we begin manufacturing your order. Each blind is made-to-measure by our skilled team to ensure a perfect fit and lasting quality.</p>"
-          }
-        },
-        "step_nyhMPf": {
-          "type": "step",
-          "settings": {
-            "title": "Expertly Fitted for You",
-            "text": "<p>Relax while our professional team installs your new blinds. We ensure a seamless stress-free fitting. Leaving you to simply enjoy the beautiful results.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "step_EdiNVF",
-        "step_BnLmXj",
-        "step_q8C4Tb",
-        "step_nyhMPf"
-      ],
-      "name": "How it works down",
-      "settings": {
-        "background_color": "#ebeced",
-        "title": "How it works",
-        "intro_text": "From first visit to final fit, here’s our simple four‑step process.",
-        "button_link": "",
-        "button_label": "Book appointment now",
-        "button_color": "#d31a2f",
-        "main_image": "shopify://shop_images/ARENA_24_CURTAIN-DAISY-CHAIN-SHADOW-PORTRAIT-03_1.jpg"
-      }
-    },
     "how_it_works_PDfqXN": {
       "type": "how-it-works",
       "blocks": {
@@ -158,6 +109,55 @@
       "settings": {
         "heading": "What we say about Roller blinds",
         "background_color": "#ffffff"
+      }
+    },
+    "how_it_works_down_9AWDpR": {
+      "type": "how-it-works-down",
+      "blocks": {
+        "step_EdiNVF": {
+          "type": "step",
+          "settings": {
+            "title": "Book your appointment",
+            "text": "<p>Choose a time that suits you and we’ll visit to discuss ideas.</p>"
+          }
+        },
+        "step_BnLmXj": {
+          "type": "step",
+          "settings": {
+            "title": "Survey & No Obligation Quote",
+            "text": "<p>Our experienced surveyor will confirm your choices and take precise measurements. We then provide a clear competitive quote with no obligation to proceed.</p>"
+          }
+        },
+        "step_q8C4Tb": {
+          "type": "step",
+          "settings": {
+            "title": "Quality Manufacturing",
+            "text": "<p>Once you're happy, we begin manufacturing your order. Each blind is made-to-measure by our skilled team to ensure a perfect fit and lasting quality.</p>"
+          }
+        },
+        "step_nyhMPf": {
+          "type": "step",
+          "settings": {
+            "title": "Expertly Fitted for You",
+            "text": "<p>Relax while our professional team installs your new blinds. We ensure a seamless stress-free fitting. Leaving you to simply enjoy the beautiful results.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "step_EdiNVF",
+        "step_BnLmXj",
+        "step_q8C4Tb",
+        "step_nyhMPf"
+      ],
+      "name": "How it works down",
+      "settings": {
+        "background_color": "#ebeced",
+        "title": "How it works",
+        "intro_text": "From first visit to final fit, here’s our simple four‑step process.",
+        "button_link": "",
+        "button_label": "Book appointment now",
+        "button_color": "#d31a2f",
+        "main_image": "shopify://shop_images/ARENA_24_CURTAIN-DAISY-CHAIN-SHADOW-PORTRAIT-03_1.jpg"
       }
     },
     "customer_testimonials_qbXa9y": {
@@ -331,10 +331,10 @@
   },
   "order": [
     "stu_ygzGW6",
-    "how_it_works_down_9AWDpR",
     "how_it_works_PDfqXN",
-    "window_inspiration_QAkK8H",
     "bullet_list_columns_jkhDMr",
+    "window_inspiration_QAkK8H",
+    "how_it_works_down_9AWDpR",
     "customer_testimonials_qbXa9y",
     "appointment_highlight_UyhQyH",
     "get_to_know_n9hFRy",
