@@ -12,7 +12,7 @@
     "stu_ygzGW6": {
       "type": "stu",
       "settings": {
-        "button_url": "shopify://collections",
+        "button_url": "https://book.goldcrest-blinds.co.uk/",
         "button_text": "Request Your Free Appointment"
       }
     },
@@ -62,7 +62,7 @@
         "button_link": "",
         "button_label": "Book appointment now",
         "button_color": "#d31a2f",
-        "main_image": "shopify://shop_images/LL_2023_Vision_Firenze_Walnut_Liv_Open_2_Mail.jpg"
+        "main_image": "shopify://shop_images/Pleated_customer_conservatory.jpg"
       }
     },
     "how_it_works_PDfqXN": {
@@ -209,7 +209,6 @@
         "trustpilot_summary_right": "4.5 based on 188 reviews",
         "trustpilot_link": "shopify://pages/reviews",
         "button_label": "See our Reviews",
-        "main_image": "shopify://shop_images/Untitled_13.png",
         "autorotate": false,
         "autorotate_speed": 5
       }
@@ -224,7 +223,7 @@
         "body_text": "<p>As the local experts in made-to-measure blinds, curtains, and shutters, we handle every detail. We ensure your items are perfectly tailored and installed, giving you a flawless result that's guaranteed to last.</p>",
         "button_label": "Book your Appointment",
         "button_link": "https://book.goldcrest-blinds.co.uk/",
-        "right_image": "shopify://shop_images/Screenshot_2025-05-16_115925.webp",
+        "right_image": "shopify://shop_images/Screenshot_2025-05-16_115925.png",
         "right_bg_color": "#f5f5f5"
       }
     },
@@ -234,7 +233,6 @@
         "card_Y4RaaG": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/ARENA_24_ROMAN-BLIND-OCEAN-NATURAL-LANDSCAPE-02_1.jpg",
             "card_title": "Roman Blinds",
             "card_text": "<p>Combining the sleek functionality of blinds with the style status of curtains.</p>",
             "card_button_label": "View Roman Blinds",
@@ -244,7 +242,6 @@
         "card_4RkLaC": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/LL_Roller_Dunham_Terracotta_BO_Bed_Main2_Web.jpg",
             "card_title": "Bedroom blinds",
             "card_text": "<p>Reduce the amount of light coming into your bedroom with specialist blackout blind fabrics and finishes.<br/></p>",
             "card_button_label": "View Bedroom Blinds",
@@ -264,7 +261,6 @@
         "card_pbMmFD": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/arena_tech-light_louvers-01.png",
             "card_title": "Wooden Blinds",
             "card_text": "<p>Wooden blinds sample text, sample text, sample text, sample text</p>",
             "card_button_label": "Learn More",
@@ -290,7 +286,7 @@
       "type": "custom-newsletter",
       "name": "Custom Newsletter",
       "settings": {
-        "image": "shopify://shop_images/ARENA-ROM-PALMIRO-CHARTREUSE-RT-11.webp",
+        "image": "shopify://shop_images/ARENA-ROM-PALMIRO-CHARTREUSE-RT-11_fc541c7b-cadb-4b66-8e07-2ddc6cffa694.jpg",
         "background_color": "#2e2e2e",
         "text_color": "#ffffff",
         "heading": "Sign up to our newsletter",
