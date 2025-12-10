@@ -12,7 +12,6 @@
     "custom_popup_nHPGjB": {
       "type": "custom-popup",
       "settings": {
-        "image": "shopify://shop_images/Shutters_Kitchen_TierOnTier_02-min.webp",
         "subtitle": "We're offering YOU",
         "title": "up to 50% OFF selected fabrics!",
         "extra_text": "To take advantage of this limited time offer book your appointment today!",
@@ -26,27 +25,40 @@
         "slide_6ja6iQ": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Kassala_Emerald_Kitchen_Roller.webp",
+            "image": "shopify://shop_images/Gemini_Generated_Image_osc5r4osc5r4osc5.png",
+            "alt": ""
+          }
+        },
+        "slide_TMiKUP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/arturo_porcelain.jpg",
             "alt": ""
           }
         },
         "slide_KTj37H": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Shutters_Dining_Bay_02.jpg",
+            "image": "shopify://shop_images/Montana_-_Pure_White_001_A_9ff13209-be4a-4c08-8f8c-0efd504af94d.jpg",
             "alt": ""
           }
         }
       },
       "block_order": [
         "slide_6ja6iQ",
+        "slide_TMiKUP",
         "slide_KTj37H"
       ],
       "settings": {
         "external": "",
-        "image": "shopify://shop_images/Kassala_Emerald_Kitchen_Roller.webp",
         "title": "Christmas Sale",
-        "text": "This November, book your free measure appointment to enjoy exclusive discounts. Don't miss out - Our sale ends soon!",
+        "text": "Book your free measure appointment to enjoy exclusive discounts. Don't miss out - Our sale ends soon!",
+        "button_url_1": "shopify://collections/blinds",
+        "button_text_1": "Blinds",
+        "button_url_2": "shopify://collections/shutters",
+        "button_text_2": "Shutters",
+        "button_url_3": "shopify://collections/curtains",
+        "button_text_3": "Curtains",
         "show_dots": true,
         "interval_ms": 9000,
         "transition_ms": 600
@@ -55,124 +67,116 @@
     "custom_collection_grid_yi6cCK": {
       "type": "custom-collection-grid",
       "blocks": {
-        "collection_UnzhVV": {
+        "collection_P94Tjh": {
           "type": "collection",
           "settings": {
-            "collection": "roller-blinds-aberdeen",
+            "collection": "roller-blinds",
             "custom_alt_text": "",
             "custom_title": "Roller Blinds"
           }
         },
-        "collection_R6wLbz": {
+        "collection_HHqQcV": {
           "type": "collection",
           "settings": {
-            "collection": "vertical-blinds-aberdeen",
-            "custom_image": "shopify://shop_images/aquarius-24-vertical_blinds_shona-moss_593-101_1ba721b0-524e-439b-a045-00ffd8357ddb.jpg",
+            "collection": "vertical-blinds",
             "custom_alt_text": "",
             "custom_title": "Vertical Blinds"
           }
         },
-        "collection_Ucb8dB": {
+        "collection_kjYHeq": {
           "type": "collection",
           "settings": {
-            "collection": "window-shutters-aberdeen",
-            "custom_image": "shopify://shop_images/Shutters_Kitchen_TierOnTier_02_1.jpg",
+            "collection": "shutters",
             "custom_alt_text": "",
             "custom_title": "Shutters"
           }
         },
-        "collection_wNdEet": {
+        "collection_7H8jPW": {
           "type": "collection",
           "settings": {
-            "collection": "pleated-blinds-aberdeen",
-            "custom_image": "shopify://shop_images/eclipse-Hive_Deluxe_Lemon.jpg",
+            "collection": "pleated-blinds",
             "custom_alt_text": "",
             "custom_title": "Pleated Blinds"
           }
         },
-        "collection_eKEHwt": {
+        "collection_RU6xnz": {
           "type": "collection",
           "settings": {
-            "collection": "wooden-blinds-aberdeen",
-            "custom_image": "shopify://shop_images/Starwood_Pavilion.jpg",
+            "collection": "wood-blinds",
             "custom_alt_text": "",
             "custom_title": "Wooden Blinds"
           }
         },
-        "collection_mAeGxd": {
+        "collection_RygXbV": {
           "type": "collection",
           "settings": {
-            "collection": "blackout-curtains",
+            "collection": "day-night-blinds",
             "custom_alt_text": "",
-            "custom_title": "Blackout Curtains"
+            "custom_title": "Day & Night"
           }
         },
-        "collection_8eW9FR": {
+        "collection_YbYtHN": {
           "type": "collection",
           "settings": {
-            "collection": "eyelet-curtains-aberdeen",
-            "custom_image": "shopify://shop_images/arturo_porcelain.jpg",
+            "collection": "curtains",
             "custom_alt_text": "",
-            "custom_title": "Eyelet Curtains"
+            "custom_title": "Curtains"
           }
         },
-        "collection_kjUeGP": {
+        "collection_LLGJ8X": {
           "type": "collection",
           "settings": {
-            "collection": "roman-blinds-aberdeen",
-            "custom_image": "shopify://shop_images/PICNIC_MEADOW_4047d6a7-f753-4dad-8ab9-09628b1f17d2.jpg",
+            "collection": "roman-blinds",
             "custom_alt_text": "",
             "custom_title": "Roman Blinds"
           }
         },
-        "collection_P4MAgk": {
+        "collection_YHfRJY": {
           "type": "collection",
           "settings": {
-            "collection": "perfect-fit-blinds-aberdeen",
-            "custom_image": "shopify://shop_images/arena_24_perfect_fit_roller_athena-coral-26.jpg",
+            "collection": "perfect-fit-blinds",
             "custom_alt_text": "",
             "custom_title": "Perfect Fit Blinds"
           }
         },
-        "collection_YPVd8i": {
+        "collection_pfQc8t": {
           "type": "collection",
           "settings": {
-            "collection": "venetian-blinds-aberdeen",
-            "custom_image": "shopify://shop_images/Venetian_Mojito_Open_Kids_Bedroom-min.jpg",
+            "collection": "venetians",
             "custom_alt_text": "",
             "custom_title": "Venetian Blinds"
           }
         },
-        "collection_wEcPpD": {
+        "collection_zJMgh8": {
           "type": "collection",
           "settings": {
-            "collection": "conservatory-blinds-aberdeen",
+            "collection": "skylight-blinds",
             "custom_alt_text": "",
-            "custom_title": "Conservatory Blinds"
+            "custom_title": "Skylight"
           }
         },
-        "collection_gx6jEL": {
+        "collection_hXGXGV": {
           "type": "collection",
           "settings": {
-            "collection": "electric-blinds-aberdeen",
+            "collection": "electric-blinds",
             "custom_alt_text": "",
             "custom_title": "Electric Blinds"
           }
         }
       },
       "block_order": [
-        "collection_UnzhVV",
-        "collection_R6wLbz",
-        "collection_Ucb8dB",
-        "collection_wNdEet",
-        "collection_eKEHwt",
-        "collection_mAeGxd",
-        "collection_8eW9FR",
-        "collection_kjUeGP",
-        "collection_P4MAgk",
-        "collection_YPVd8i",
-        "collection_wEcPpD",
-        "collection_gx6jEL"
+        "collection_P94Tjh",
+        "collection_HHqQcV",
+        "collection_kjYHeq",
+        "collection_7H8jPW",
+        "collection_RU6xnz",
+        "collection_RygXbV",
+        "collection_YbYtHN",
+        "collection_LLGJ8X",
+        "collection_YHfRJY",
+        "collection_pfQc8t",
+        "collection_zJMgh8",
+        "collection_hXGXGV"
       ],
       "name": "Custom Collection Grid",
       "settings": {
@@ -189,33 +193,33 @@
         "review_gLFLYN": {
           "type": "review",
           "settings": {
-            "headline": "",
-            "text": "This was our third cafe shutters to be fitted in our Steading. An excellent service from initial visit, measurement, update on arrival and final fitting. Highly recommend this company and service.",
-            "author": "Jeff Yates"
+            "headline": "A no fuss 5 star easy service",
+            "text": "A no fuss 5 star easy service who deliver as promised! It’s great to work with a company who know their business and deliver for their customers",
+            "author": "Lorraine Rowan"
           }
         },
         "review_9GtBEH": {
           "type": "review",
           "settings": {
-            "headline": "",
-            "text": "Never go anywhere for our blinds but Grampian Blinds. Service is great, fits perfectly, great value. Always keep it local",
-            "author": "Margaret Williamson"
+            "headline": "Replaced blinds in the conservatory door",
+            "text": "Replaced blinds in the conservatory door with a different frame design from the original. The quality of the replacement is excellent and we are very pleased withe the outcome. Should any other blinds need replacing Goldcrest will be the first choice.",
+            "author": "Derek Marshall"
           }
         },
         "review_YQhFkn": {
           "type": "review",
           "settings": {
-            "headline": "",
-            "text": "Good customer facing and very helpful in helping us choose the blinds we required.\nThe installer was very professional and had the new blinds up in no time and very tidy and took away old blinds.",
-            "author": "Robert Hay"
+            "headline": "Excellent service",
+            "text": "Lots of lovely blinds to choose from and good prices. Salesman Ronnie was excellent as was the guy who came to install my blinds. Very kindly took down old blind fittings as my husband and I could not manage this. Blinds fitted quickly and no mess.",
+            "author": "Mrs Elizabeth Young"
           }
         },
         "review_BdF4tp": {
           "type": "review",
           "settings": {
-            "headline": "",
-            "text": "Very happy with my new blinds.\nALL staff involved, from the estimate to fitting were friendly, knowledgeable and helpful.",
-            "author": "Linda Cowie"
+            "headline": "Really pleased with the whole",
+            "text": "Really pleased with the whole experience. Good communication from the start. Friendly and efficient staff throughout the process and I'm absolutely delighted with the blinds that have been fitted.",
+            "author": "Elaine Mckenzie"
           }
         }
       },
@@ -228,11 +232,11 @@
       "name": "Customer Testimonials",
       "settings": {
         "background_color": "#deced1",
-        "trustpilot_summary_left": "Rated Excellent",
-        "trustpilot_summary_right": "4.5 based on 188 reviews",
+        "trustpilot_summary_left": "Rated 5 stars",
+        "trustpilot_summary_right": "4.7 based on 58 reviews",
         "trustpilot_link": "shopify://pages/reviews",
         "button_label": "See our Reviews",
-        "main_image": "shopify://shop_images/Untitled_13.png",
+        "main_image": "shopify://shop_images/Pleated_customer_conservatory.jpg",
         "autorotate": true,
         "autorotate_speed": 4
       }
@@ -246,8 +250,8 @@
         "main_heading": "The Right Fit, Every Time",
         "body_text": "<p>As the local experts in made-to-measure blinds, curtains, and shutters, we handle every detail. We ensure your items are perfectly tailored and installed, giving you a flawless result that's guaranteed to last.</p>",
         "button_label": "Book Your Appointment",
-        "button_link": "https://book.grampian-blinds.co.uk/",
-        "right_image": "shopify://shop_images/Screenshot_2025-05-16_115925.webp",
+        "button_link": "https://book.goldcrest-blinds.co.uk/",
+        "right_image": "shopify://shop_images/Screenshot_2025-05-16_115925.png",
         "right_bg_color": "#f5f5f5"
       }
     },
@@ -257,7 +261,7 @@
         "card_mDwg4b": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/35-years.webp",
+            "card_image": "shopify://shop_images/generate-a-circle-logo-that-say-35-years.png",
             "card_title": "Unrivalled Expertise",
             "card_text": "<p>With over 39 years of experience, our knowledgeable team provides expert advice, guiding you to the perfect solution for your home.</p>",
             "card_button_label": "Learn More",
@@ -267,7 +271,7 @@
         "card_DNfXdm": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/made-to-measure.webp",
+            "card_image": "shopify://shop_images/IMG_3632.heic",
             "card_title": "Made-to-Measure Perfection",
             "card_text": "<p>Every blind, curtain, and shutter is custom-made in our factory in Scotland for a flawless fit, using the highest quality materials to complement your space beautifully.</p>",
             "card_button_label": "Learn More",
@@ -277,7 +281,7 @@
         "card_PAkbAm": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/image.jpg",
+            "card_image": "shopify://shop_images/thumbnail_20250620_125800.jpg",
             "card_title": "Local Showroom",
             "card_text": "<p>For more than three decades, we have been an integral part of the local community, offering a showroom open on Weekdays from 9 am to 5 pm.</p>",
             "card_button_label": "Learn More",
@@ -287,7 +291,7 @@
         "card_UhtEdq": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/craftsmanship.webp",
+            "card_image": "shopify://shop_images/IMG_3548.heic",
             "card_title": "Premium Craftsmanship & Design",
             "card_text": "<p>We source the finest fabrics, materials, and finishes to create window dressings that are stylish, durable, and built to last.</p>",
             "card_button_label": "Learn More",
@@ -304,7 +308,7 @@
       "name": "Get to Know Carousel",
       "settings": {
         "other_products": false,
-        "heading": "Grampian Blinds",
+        "heading": "Goldcrest Blinds",
         "subheading": "",
         "background_color": "#ebeced"
       }
@@ -372,11 +376,11 @@
         "card_UNqTgp": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/Screenshot_2025-05-16_115925.webp",
+            "card_image": "shopify://shop_images/Screenshot_2025-05-16_115925.png",
             "card_title": "Book a Free Home Appointment",
             "card_text": "<p>Let us bring the showroom to you. Our local expert will visit to measure your space, guide you through our samples and provide a free, no-obligation quote.</p>",
             "button_label": "Book Your Appointment",
-            "button_link": "https://book.goldcrest-blinds.co.uk/goldcrest-blinds/",
+            "button_link": "https://book.goldcrest-blinds.co.uk/",
             "external_link": false,
             "card_background_color": "#fcfcfc",
             "card_text_color": "#333333"
@@ -385,11 +389,11 @@
         "card_TVYxUU": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/website_icons-2_4.png",
+            "card_image": "shopify://shop_images/Goldcrest_Showroom_4.png",
             "card_title": "Visit our Showoom",
             "card_text": "<p>Want to see and feel the quality for yourself? Visit our showroom to browse the complete collection. Our expert team will be on hand to offer advice and inspiration.</p>",
             "button_label": "Visit Us",
-            "button_link": "https://maps.app.goo.gl/4gqQTu7xVxjb1Yt47",
+            "button_link": "https://maps.app.goo.gl/wWDkmivNfkXxGm3r5",
             "external_link": true,
             "card_background_color": "#fcfcfc",
             "card_text_color": "#333333"
@@ -398,11 +402,11 @@
         "card_8dwfK9": {
           "type": "card",
           "settings": {
-            "card_image": "shopify://shop_images/website_icons-1_2.png",
+            "card_image": "shopify://shop_images/Untitled-7_3.png",
             "card_title": "Join our community",
             "card_text": "<p>Follow us on social media for the latest design inspiration, new product announcements, and exclusive offers. See our blinds in real homes and get fresh ideas.</p>",
             "button_label": "Follow Us",
-            "button_link": "shopify://pages/socials",
+            "button_link": "shopify://pages/social",
             "external_link": false,
             "card_background_color": "#fcfcfc",
             "card_text_color": "#333333"
@@ -424,9 +428,9 @@
       "type": "custom-newsletter",
       "name": "Custom Newsletter",
       "settings": {
-        "image": "shopify://shop_images/ARENA-ROM-PALMIRO-CHARTREUSE-RT-11.webp",
-        "background_color": "#e3cfbf",
-        "text_color": "#1a1a1a",
+        "image": "shopify://shop_images/ARENA-ROM-PALMIRO-CHARTREUSE-RT-11_fc541c7b-cadb-4b66-8e07-2ddc6cffa694.jpg",
+        "background_color": "#333333",
+        "text_color": "#ffffff",
         "heading": "Sign up to our newsletter",
         "text": "<p>Enter your email address to receive updates on our latest collections, trends and exclusive offers.</p>",
         "privacy_text": "<p>We take safeguarding your details seriously. See our <a href=\"/privacy-policy\">privacy policy</a>.</p>"
