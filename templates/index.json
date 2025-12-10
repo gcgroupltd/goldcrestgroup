@@ -11,6 +11,7 @@
   "sections": {
     "custom_popup_nHPGjB": {
       "type": "custom-popup",
+      "disabled": true,
       "settings": {
         "subtitle": "We're offering YOU",
         "title": "up to 50% OFF selected fabrics!",
