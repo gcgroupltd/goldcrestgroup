@@ -163,41 +163,41 @@
     "customer_testimonials_qbXa9y": {
       "type": "customer-testimonials",
       "blocks": {
-        "review_fzUVWU": {
+        "review_QigwJh": {
           "type": "review",
           "settings": {
-            "headline": "",
-            "text": "This was our third cafe shutters to be fitted in our Steading. An excellent service from initial visit, measurement, update on arrival and final fitting. Highly recommend this company and service.",
-            "author": "Jeff Yates"
+            "headline": "A no fuss 5 star easy service",
+            "text": "A no fuss 5 star easy service who deliver as promised! It’s great to work with a company who know their business and deliver for their customers",
+            "author": "Lorraine Rowan"
           }
         },
         "review_nab8VB": {
           "type": "review",
           "settings": {
-            "headline": "",
-            "text": "Never go anywhere for our blinds but Grampian Blinds. Service is great, fits perfectly, great value. Always keep it local",
-            "author": "Margaret Williamson"
+            "headline": "Replaced blinds in the conservatory door",
+            "text": "Replaced blinds in the conservatory door with a different frame design from the original. The quality of the replacement is excellent and we are very pleased withe the outcome. Should any other blinds need replacing Goldcrest will be the first choice.",
+            "author": "Derek Marshall"
           }
         },
         "review_6Fx4eG": {
           "type": "review",
           "settings": {
-            "headline": "",
-            "text": "Good customer facing and very helpful in helping us choose the blinds we required.\nThe installer was very professional and had the new blinds up in no time and very tidy and took away old blinds.",
-            "author": "Robert Hay"
+            "headline": "Excellent service",
+            "text": "Lots of lovely blinds to choose from and good prices. Salesman Ronnie was excellent as was the guy who came to install my blinds. Very kindly took down old blind fittings as my husband and I could not manage this. Blinds fitted quickly and no mess.",
+            "author": "Mrs Elizabeth Young"
           }
         },
         "review_FphPMR": {
           "type": "review",
           "settings": {
-            "headline": "",
-            "text": "Very happy with my new blinds.\nALL staff involved, from the estimate to fitting were friendly, knowledgeable and helpful.",
-            "author": "Linda Cowie"
+            "headline": "Really pleased with the whole",
+            "text": "Really pleased with the whole experience. Good communication from the start. Friendly and efficient staff throughout the process and I'm absolutely delighted with the blinds that have been fitted.",
+            "author": "Elaine Mckenzie"
           }
         }
       },
       "block_order": [
-        "review_fzUVWU",
+        "review_QigwJh",
         "review_nab8VB",
         "review_6Fx4eG",
         "review_FphPMR"
@@ -209,6 +209,7 @@
         "trustpilot_summary_right": "4.5 based on 188 reviews",
         "trustpilot_link": "shopify://pages/reviews",
         "button_label": "See our Reviews",
+        "main_image": "shopify://shop_images/Untitled_13.webp",
         "autorotate": false,
         "autorotate_speed": 5
       }
@@ -233,19 +234,21 @@
         "card_Y4RaaG": {
           "type": "card",
           "settings": {
+            "card_image": "shopify://shop_images/ARENA_24_ROMAN-BLIND-OCEAN-NATURAL-LANDSCAPE-02_1.webp",
             "card_title": "Roman Blinds",
             "card_text": "<p>Combining the sleek functionality of blinds with the style status of curtains.</p>",
             "card_button_label": "View Roman Blinds",
-            "card_button_link": "shopify://collections/roman-blinds-aberdeen"
+            "card_button_link": "shopify://collections/roman-blinds"
           }
         },
         "card_4RkLaC": {
           "type": "card",
           "settings": {
+            "card_image": "shopify://shop_images/LL_Roller_Dunham_Terracotta_BO_Bed_Main2_Web.webp",
             "card_title": "Bedroom blinds",
             "card_text": "<p>Reduce the amount of light coming into your bedroom with specialist blackout blind fabrics and finishes.<br/></p>",
             "card_button_label": "View Bedroom Blinds",
-            "card_button_link": "shopify://collections/bedroom-blinds-aberdeen"
+            "card_button_link": "shopify://collections/bedroom-blinds"
           }
         },
         "card_XkR8H7": {
@@ -255,16 +258,17 @@
             "card_title": "Day and Night Blinds",
             "card_text": "<p>This day and night blinds works like a Venetiion, giving you total control over light and privacy.</p>",
             "card_button_label": "View Day and Night Blinds",
-            "card_button_link": "shopify://collections/vision-blinds-aberdeen"
+            "card_button_link": "shopify://collections/day-night-blinds"
           }
         },
         "card_pbMmFD": {
           "type": "card",
           "settings": {
+            "card_image": "shopify://shop_images/arena_tech-light_louvers-01.webp",
             "card_title": "Wooden Blinds",
             "card_text": "<p>Wooden blinds sample text, sample text, sample text, sample text</p>",
             "card_button_label": "Learn More",
-            "card_button_link": "shopify://collections/wooden-blinds-aberdeen"
+            "card_button_link": "shopify://collections/wood-blinds"
           }
         }
       },
