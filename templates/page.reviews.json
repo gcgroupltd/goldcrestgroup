@@ -23,32 +23,24 @@
           "type": "rating_tile",
           "settings": {
             "tile_label": "Overall",
-            "tile_rating": "4.5",
-            "tile_reviews": "188 reviews"
-          }
-        },
-        "rating_tile_HPXrCY": {
-          "type": "rating_tile",
-          "settings": {
-            "tile_label": "Trustpilot",
-            "tile_rating": "4.6",
-            "tile_reviews": "135 reviews"
+            "tile_rating": "4.7",
+            "tile_reviews": "87 reviews"
           }
         },
         "rating_tile_tfD7zG": {
           "type": "rating_tile",
           "settings": {
             "tile_label": "Google",
-            "tile_rating": "4.4",
-            "tile_reviews": "53 reviews"
+            "tile_rating": "4.8",
+            "tile_reviews": "32 reviews"
           }
         },
         "review_7eDLYX": {
           "type": "review",
           "settings": {
-            "name": "Craig Michie",
-            "review_date": "01/10/2025",
-            "body": "<p>Superb from start to finish. From coming in and measuring up, providing ideas and their own opinions on what type of blinds would suit the room and to different colour options. All of which look the part once installed.</p>",
+            "name": "Lorraine Rowan",
+            "review_date": "16/10/2025",
+            "body": "<p>A no fuss 5 star easy service who deliver as promised! It’s great to work with a company who know their business and deliver for their customers</p>",
             "foot_pos_x": 50,
             "foot_pos_y": 50,
             "foot_fit": "contain"
@@ -57,9 +49,9 @@
         "review_78cRBr": {
           "type": "review",
           "settings": {
-            "name": "Eileen Grassick",
-            "review_date": "11/10/2025",
-            "body": "<p>Our replacement blinds are lovely , just as we expected . Our fitter was most polite and friendly , carried out his work with utmost professionalism leaving his working area clean and tidy .<br/>We very much recommend Grampian Blinds Ltd.</p>",
+            "name": "Derek Marshall",
+            "review_date": "04/04/2025",
+            "body": "<p>Replaced blinds in the conservatory door with a different frame design from the original. The quality of the replacement is excellent and we are very pleased withe the outcome. Should any other blinds need replacing Goldcrest will be the first choice.</p>",
             "foot_pos_x": 50,
             "foot_pos_y": 50,
             "foot_fit": "contain"
@@ -68,9 +60,9 @@
         "review_ybCyaf": {
           "type": "review",
           "settings": {
-            "name": "Ann Morrice",
-            "review_date": "27/07/2025",
-            "body": "<p>Very pleased with the service & fitting of 3 x roller blinds. Both members of staff who I dealt with were helpful, polite & professional. I would recommend Grampian Blinds to family & friends and wouldn’t hesitate to buy from them in the future.<br/></p>",
+            "name": "George Grieve",
+            "review_date": "29/05/2025",
+            "body": "<p>Actually I’m not one for giving reviews but my whole experience in dealing with goldcrest was a pleasure from start to finish 👌🏻👌👌Top company and great staff <br/></p>",
             "foot_pos_x": 50,
             "foot_pos_y": 50,
             "foot_fit": "contain"
@@ -79,9 +71,9 @@
         "review_6qRDmC": {
           "type": "review",
           "settings": {
-            "name": "Jeff Yates",
-            "review_date": "18/10/2025",
-            "body": "<p>This was our third cafe shutters to be fitted in our Steading. An excellent service from initial visit, measurement, update on arrival and final fitting. Highly recommend this company and service.</p>",
+            "name": "Eve Whitelaw",
+            "review_date": "24/03/2025",
+            "body": "<p>We received excellent customer service from start to finish. We enquired via the online form and everyone that we spoke to at Goldcrest were extremely friendly and helpful. The team who came out to measure and then fit were very informative, took care in the house and tidied up after themselves. We love our new blinds in the house and will be back for future renovations!</p>",
             "foot_pos_x": 50,
             "foot_pos_y": 50,
             "foot_fit": "contain"
@@ -90,9 +82,9 @@
         "review_Lie8fV": {
           "type": "review",
           "settings": {
-            "name": "Kevin Edwards",
-            "review_date": "16/10/2025",
-            "body": "<p>there are great to work with as there helpful and polite and the blind fitter is good to chat with and if there is delays they phone you to keep you updated,i highly recommend grampian blinds.</p>",
+            "name": "Graham Cochrane",
+            "review_date": "29/03/2025",
+            "body": "<p>Picked the vertical blinds at home from a large selection of material, under no obligation. Ordered then at a great price. A couple of weeks later they were fitted quickly and they look great and work very smoothly. Recommended.</p>",
             "foot_pos_x": 50,
             "foot_pos_y": 50,
             "foot_fit": "contain"
@@ -101,9 +93,9 @@
         "review_TwhqdC": {
           "type": "review",
           "settings": {
-            "name": "Margaret Williamson",
-            "review_date": "28/09/2025",
-            "body": "<p>Never go anywhere for our blinds but Grampian Blinds. Service is great, fits perfectly, great value. Always keep it local</p>",
+            "name": "Linda Dempster",
+            "review_date": "05/01/2025",
+            "body": "<p>Excellent service from moment we walked into showroom. It was so helpful to have samples brought to house and receive good advice on styles and suggestions to suit our locations. Made sure blinds were ready and installed for Christmas. Definitely recommend.</p>",
             "foot_pos_x": 50,
             "foot_pos_y": 50,
             "foot_fit": "contain"
@@ -178,7 +170,6 @@
       },
       "block_order": [
         "rating_tile_EJPdPy",
-        "rating_tile_HPXrCY",
         "rating_tile_tfD7zG",
         "review_7eDLYX",
         "review_78cRBr",
