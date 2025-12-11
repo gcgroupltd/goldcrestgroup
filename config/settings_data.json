@@ -11,6 +11,13 @@
   "current": {
     "logo": "shopify://shop_images/goldcrest-only-v4-0_updated.png",
     "favicon": "shopify://shop_images/circ-ic.jpg",
+    "social_facebook_link": "https://www.facebook.com/GoldcrestBlinds",
+    "social_instagram_link": "https://www.instagram.com/goldcrestblinds/",
+    "opening_hours_monday": "09:00 - 17:00",
+    "opening_hours_tuesday": "09:00 - 17:00",
+    "opening_hours_wednesday": "09:00 - 17:00",
+    "opening_hours_thursday": "09:00 - 17:00",
+    "opening_hours_friday": "09:00 - 17:00",
     "content_for_index": []
   }
 }
