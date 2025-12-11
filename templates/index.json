@@ -72,7 +72,7 @@
         "collection_UnzhVV": {
           "type": "collection",
           "settings": {
-            "collection": "roller-blinds-aberdeen",
+            "collection": "roller-blinds",
             "custom_alt_text": "",
             "custom_title": "Roller Blinds"
           }
@@ -80,7 +80,7 @@
         "collection_R6wLbz": {
           "type": "collection",
           "settings": {
-            "collection": "vertical-blinds-aberdeen",
+            "collection": "newcastle-vertical-blinds",
             "custom_alt_text": "",
             "custom_title": "Vertical Blinds"
           }
@@ -88,7 +88,7 @@
         "collection_Ucb8dB": {
           "type": "collection",
           "settings": {
-            "collection": "window-shutters-aberdeen",
+            "collection": "newcastle-shutters",
             "custom_alt_text": "",
             "custom_title": "Shutters"
           }
@@ -96,7 +96,7 @@
         "collection_wNdEet": {
           "type": "collection",
           "settings": {
-            "collection": "pleated-blinds-aberdeen",
+            "collection": "newcastle-pleated-blinds",
             "custom_alt_text": "",
             "custom_title": "Pleated Blinds"
           }
@@ -104,31 +104,31 @@
         "collection_eKEHwt": {
           "type": "collection",
           "settings": {
-            "collection": "wooden-blinds-aberdeen",
+            "collection": "newcastle-wooden-blinds",
             "custom_alt_text": "",
             "custom_title": "Wooden Blinds"
+          }
+        },
+        "collection_P9BPcN": {
+          "type": "collection",
+          "settings": {
+            "collection": "newcastle-day-night-blinds",
+            "custom_alt_text": "",
+            "custom_title": "Day & Night"
           }
         },
         "collection_mAeGxd": {
           "type": "collection",
           "settings": {
-            "collection": "blackout-curtains",
+            "collection": "newcastle-curtains",
             "custom_alt_text": "",
-            "custom_title": "Blackout Curtains"
-          }
-        },
-        "collection_8eW9FR": {
-          "type": "collection",
-          "settings": {
-            "collection": "eyelet-curtains-aberdeen",
-            "custom_alt_text": "",
-            "custom_title": "Eyelet Curtains"
+            "custom_title": "Curtains"
           }
         },
         "collection_kjUeGP": {
           "type": "collection",
           "settings": {
-            "collection": "roman-blinds-aberdeen",
+            "collection": "newcastle-roman-blinds",
             "custom_alt_text": "",
             "custom_title": "Roman Blinds"
           }
@@ -136,7 +136,7 @@
         "collection_P4MAgk": {
           "type": "collection",
           "settings": {
-            "collection": "perfect-fit-blinds-aberdeen",
+            "collection": "newcastle-perfect-fit-blinds",
             "custom_alt_text": "",
             "custom_title": "Perfect Fit Blinds"
           }
@@ -144,7 +144,7 @@
         "collection_YPVd8i": {
           "type": "collection",
           "settings": {
-            "collection": "venetian-blinds-aberdeen",
+            "collection": "newcastle-venetian-blinds",
             "custom_alt_text": "",
             "custom_title": "Venetian Blinds"
           }
@@ -152,7 +152,7 @@
         "collection_wEcPpD": {
           "type": "collection",
           "settings": {
-            "collection": "conservatory-blinds-aberdeen",
+            "collection": "newcastle-skylight-blinds",
             "custom_alt_text": "",
             "custom_title": "Conservatory Blinds"
           }
@@ -160,7 +160,7 @@
         "collection_gx6jEL": {
           "type": "collection",
           "settings": {
-            "collection": "electric-blinds-aberdeen",
+            "collection": "newcastle-electric-blinds",
             "custom_alt_text": "",
             "custom_title": "Electric Blinds"
           }
@@ -172,8 +172,8 @@
         "collection_Ucb8dB",
         "collection_wNdEet",
         "collection_eKEHwt",
+        "collection_P9BPcN",
         "collection_mAeGxd",
-        "collection_8eW9FR",
         "collection_kjUeGP",
         "collection_P4MAgk",
         "collection_YPVd8i",
