@@ -115,53 +115,9 @@
         "review_mpCEW9": {
           "type": "review",
           "settings": {
-            "name": "Mike Metselaar",
-            "review_date": "07/09/2025",
-            "body": "<p>We are very happy with the blinds installed by Grampian Blinds. We are particularly impressed with the cartridge blind system which fits neatly inside the boundaries of the 2 patio door windows.</p>",
-            "foot_pos_x": 50,
-            "foot_pos_y": 50,
-            "foot_fit": "contain"
-          }
-        },
-        "review_F8aP6L": {
-          "type": "review",
-          "settings": {
-            "name": "Linda Cowie",
-            "review_date": "05/09/2025",
-            "body": "<p>Very happy with my new blinds.<br/>ALL staff involved, from the estimate to fitting were friendly, knowledgeable and helpful</p>",
-            "foot_pos_x": 50,
-            "foot_pos_y": 50,
-            "foot_fit": "contain"
-          }
-        },
-        "review_TirFcM": {
-          "type": "review",
-          "settings": {
-            "name": "Sandra Reid",
-            "review_date": "01/09/2025",
-            "body": "<p>Wouldn't consider going anywhere else. Professional, efficient and terrific service from start to finish.</p>",
-            "foot_pos_x": 50,
-            "foot_pos_y": 50,
-            "foot_fit": "contain"
-          }
-        },
-        "review_7E7hp3": {
-          "type": "review",
-          "settings": {
-            "name": "Julie Fletcher",
-            "review_date": "30/08/2025",
-            "body": "<p>Great service, pleasant staff, blinds arrived and fitted on time.<br/>I would definitely recommend this company.</p>",
-            "foot_pos_x": 50,
-            "foot_pos_y": 50,
-            "foot_fit": "contain"
-          }
-        },
-        "review_3CWWRR": {
-          "type": "review",
-          "settings": {
-            "name": "Jeannie Birnie",
-            "review_date": "26/07/2025",
-            "body": "<p>From the initial booking of the appointment for measurements to the fitting of our blinds all the staff were first class very helpful and professional. Over the years we have used Grampian Blinds many times and will use again.</p>",
+            "name": "Terence Coster",
+            "review_date": "16/10/2025",
+            "body": "<p>I had some roller blinds fitted recently by Goldcrest and the experience of choosing and fitting was seamless and professional.</p>",
             "foot_pos_x": 50,
             "foot_pos_y": 50,
             "foot_fit": "contain"
@@ -178,11 +134,7 @@
         "review_Lie8fV",
         "review_TwhqdC",
         "review_rc7iri",
-        "review_mpCEW9",
-        "review_F8aP6L",
-        "review_TirFcM",
-        "review_7E7hp3",
-        "review_3CWWRR"
+        "review_mpCEW9"
       ],
       "name": "Reviews & ratings",
       "settings": {
