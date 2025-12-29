@@ -38,7 +38,8 @@
     "advert_a3xDxf": {
       "type": "advert",
       "settings": {
-        "text": "Christmas Sale Now On!",
+        "use_image": false,
+        "text": "Start the New Year in Style!",
         "external": "https://book.grampian-blinds.co.uk/"
       }
     }
