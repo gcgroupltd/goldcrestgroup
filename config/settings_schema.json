@@ -46,31 +46,31 @@
         "type": "color",
         "id": "color_text",
         "label": "Text Colour",
-        "default": "#121212",
+        "default": "#121212"
       },
       {
         "type": "color",
         "id": "color_primary_button_background",
         "label": "Primary Button Background",
-        "default": "#de162a",
+        "default": "#de162a"
       },
       {
         "type": "color",
         "id": "color_primary_button_text",
         "label": "Primary Button Text",
-        "default": "#FFFFFF",
+        "default": "#FFFFFF"
       },
       {
         "type": "color",
         "id": "color_secondary_button_background",
         "label": "Secondary Button Background",
-        "default": "#0f2c4c",
+        "default": "#0f2c4c"
       },
       {
         "type": "color",
         "id": "color_secondary_button_text",
         "label": "Secondary Button Text",
-        "default": "#FFFFFF",
+        "default": "#FFFFFF"
       },
     ],
   },
@@ -1041,7 +1041,6 @@
   },
   {
     "name": "Booking Details",
-    "description": "This is only used for the head script to pass google analytics.",
     "settings": [
       {
       "type": "text",
