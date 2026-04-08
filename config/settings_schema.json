@@ -1038,5 +1038,16 @@
       "default": "See all collections"
     }
   ]
+  },
+  {
+    "name": "Booking Details",
+    "description": "This is only used for the head script to pass google analytics.",
+    "settings": [
+      {
+      "type": "text",
+      "id": "booking_page_url",
+      "label": "Booking Page URL"
+    }
+   ]
   }
 ]
