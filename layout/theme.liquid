@@ -326,6 +326,32 @@
           y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
       })(window, document, "clarity", "script", "siwmkso296");
     </script>
+
+    <!-- Google Analytics forwarding -->
+    <script>
+      // Wait for the DOM to load
+      document.addEventListener('DOMContentLoaded', function() {
+        // Get all links to the booking subdomain
+        const bookingLinks = document.querySelectorAll('a[href*="{{ settings.booking_page_url }}"]');
+
+        // Get gclid and gbraid from the current URL
+        const params = new URLSearchParams(window.location.search);
+        const gclid = params.get('gclid');
+        const gbraid = params.get('gbraid');
+
+        if (!gclid && !gbraid) return; // Nothing to pass
+
+        // Update each link
+        bookingLinks.forEach(link => {
+          const url = new URL(link.href);
+
+          if (gclid) url.searchParams.set('gclid', gclid);
+          if (gbraid) url.searchParams.set('gbraid', gbraid);
+
+          link.href = url.toString();
+        });
+      });
+    </script>
   </head>
 
   <body>
