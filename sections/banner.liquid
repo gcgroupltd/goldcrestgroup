@@ -140,16 +140,16 @@
               <div class="bnr__slide" {{ block.shopify_attributes }}>
                 {% if block.settings.image %}
                   {{ block.settings.image
-                    | image_url: width: 2400
-                    | image_tag: alt: block.settings.alt, loading: 'lazy' }}
+                    | image_url: width: 1000
+                    | image_tag: alt: block.settings.alt, loading: 'lazy', fetchpriority: 'high' }}
                 {% endif %}
               </div>
             {% endfor %}
           {% elsif section.settings.image %}
             <div class="bnr__slide is-active">
               {{ section.settings.image
-                | image_url: width: 2400
-                | image_tag: alt: section.settings.title, loading: 'lazy' }}
+                | image_url: width: 1000
+                | image_tag: alt: section.settings.title, loading: 'lazy', fetchpriority: 'high' }}
             </div>
           {% endif %}
         </div>
