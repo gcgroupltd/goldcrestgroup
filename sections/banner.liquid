@@ -141,7 +141,7 @@
                 {% if block.settings.image %}
                   {{ block.settings.image
                     | image_url: width: 1000
-                    | image_tag: alt: block.settings.alt, loading: 'lazy', fetchpriority: 'high' }}
+                    | image_tag: alt: block.settings.alt, fetchpriority: 'high', format: 'webp' }}
                 {% endif %}
               </div>
             {% endfor %}
@@ -149,7 +149,7 @@
             <div class="bnr__slide is-active">
               {{ section.settings.image
                 | image_url: width: 1000
-                | image_tag: alt: section.settings.title, loading: 'lazy', fetchpriority: 'high' }}
+                | image_tag: alt: section.settings.title, fetchpriority: 'high', format: 'webp' }}
             </div>
           {% endif %}
         </div>
