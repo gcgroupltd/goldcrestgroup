@@ -107,11 +107,12 @@
 
               {%- if image_to_use != blank -%}
                 <img
-                  src="{{ image_to_use | image_url: width: 550 }}"
+                  src="{{ image_to_use | image_url: width: 400 }}"
                   alt="{{ alt_text }}"
                   width="550"
-                  height="{{ 550 | divided_by: image_to_use.aspect_ratio | round }}"
+                  height="{{ 400 | divided_by: image_to_use.aspect_ratio | round }}"
                   loading="lazy"
+                  format="webp"
                 >
               {%- else -%}
                   {%- assign placeholder_image = 'collection-apparel-1' -%}
