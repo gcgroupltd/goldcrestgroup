@@ -13,7 +13,6 @@
       "type": "custom-popup",
       "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Montana_-_Pure_White_001_E_1_bbc82e6d-e3f5-4ebe-b1be-ee96bec018c7.jpg",
         "subtitle": "We're offering YOU",
         "title": "up to 50% OFF selected fabrics!",
         "extra_text": "To take advantage of this limited time offer book your appointment today!",
@@ -138,7 +137,7 @@
           "settings": {
             "collection": "newcastle-perfect-fit-blinds",
             "custom_alt_text": "",
-            "custom_title": "Perfect Fit Blinds"
+            "custom_title": "Perfect Fit® Blinds"
           }
         },
         "collection_YPVd8i": {
